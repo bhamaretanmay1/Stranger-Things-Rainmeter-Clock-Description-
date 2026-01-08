@@ -15,7 +15,9 @@ A fan-made **Stranger Things inspired Rainmeter clock** featuring glowing red te
 ---
 
 ## 📸 Preview
-> (Add screenshots here after uploading to GitHub)
+![clock](https://github.com/user-attachments/assets/6208eaab-7aa4-41c6-a217-ffca25db8826)
+
+
 
 ---
 
